@@ -2,7 +2,7 @@
 - HTML
 - CSS
 - SCSS
-- Jquery
+- JQuery
 - CDN
 - GULP
 
