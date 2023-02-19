@@ -1,4 +1,4 @@
-# Portfolio HTML/CSS developer
+# Portfolio html/css developer
 - HTML
 - CSS
 - SCSS
