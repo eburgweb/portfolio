@@ -6,4 +6,4 @@
 - CDN
 - GULP
 
-Can you view [my portfolio](https://uralrulit.github.io/portfolio/)
+[My portfolio](https://uralrulit.github.io/portfolio/)
