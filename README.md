@@ -1,4 +1,4 @@
-# Layout designer's portfolio
+# Portfolio HTML/CSS developer
 - HTML
 - CSS
 - SCSS
