@@ -6,4 +6,4 @@
 - CDN
 - GULP
 
-Can you view [my portfolio](https://stepanovavtoplus.github.io/portfolio/)
+Can you view [my portfolio](https://uralrulit.github.io/portfolio/)
