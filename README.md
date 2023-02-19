@@ -4,6 +4,6 @@
 - SCSS
 - Jquery
 - CDN
-- GALP
+- GULP
 
 Can you view [my portfolio](https://stepanovavtoplus.github.io/portfolio/)
