@@ -4,6 +4,6 @@
 - SCSS
 - JQuery
 - CDN
-- GULP
+- Gulp
 
 [My portfolio](https://uralrulit.github.io/portfolio/)
