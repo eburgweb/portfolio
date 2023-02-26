@@ -424,6 +424,10 @@ body.lock {
 /*   justify-content: space-between; */
 }
 
+.footer__social-icon + .footer__social-icon {
+  margin-left: 30px;
+}
+
 .footer__social-icon img:hover {
   opacity: 0.5;
   transform: translateY(2px);
