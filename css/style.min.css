@@ -334,6 +334,45 @@ body.lock {
   width: 100%;
   left: 0;
 }
+.quote {
+  max-width: 870px;
+  width: 100%;
+  margin: 0 auto;
+  margin-bottom: 130px;
+}
+
+.quote-line {
+  display: flex;
+  max-width: 650px;
+  width: 100%;
+  border: 1px solid rgba(248, 108, 108, 0.5);
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+
+.quote-text {
+  max-width: 870px;
+  width: 100%;
+  font-style: italic;
+  font-size: 40px;
+  line-height: 60px;
+  font-weight: 300;
+  text-align: center;
+  color: #1E4776;
+  margin-bottom: 10px;
+}
+
+.quote-author {
+  max-width: 870px;
+  font-style: italic;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 300;
+  color: #1E4776;
+  margin: 0 auto;
+  margin-left: 70%;
+  margin-bottom: 20px;
+}
 
 .footer {
   max-width: 1440px;
@@ -516,6 +555,17 @@ body.lock {
     font-size: 36px;
   }
 }
+@media (max-width: 900px) {
+  .quote-text {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .quote-author {
+    margin-left: 67%;
+    font-size: 16px;
+    line-height: 20px;
+  }
+}
 @media (max-width: 640px) {
   .header__title-1 {
     font-size: 50px;
@@ -576,6 +626,11 @@ body.lock {
   }
   .header__title-2 {
     font-size: 12px;
+  }
+  .quote-author {
+    font-size: 14px;
+    line-height: 18px;
+    margin-left: 60%;
   }
   .footer__copy-title {
     font-size: 22px;
