@@ -421,6 +421,7 @@ body.lock {
 .footer__social-icons {
   display: flex;
 /*   justify-content: space-between; */
+  align-items: center;
 }
 
 .footer__social-icon + .footer__social-icon {
@@ -428,7 +429,7 @@ body.lock {
 }
 
 .footer__social-icon--telegram img {
-  width: 30px;
+  width: 41px;
 }
 
 .footer__social-icon img:hover {
