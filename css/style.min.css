@@ -427,6 +427,10 @@ body.lock {
   margin-left: 30px;
 }
 
+.footer__social-icon--telegram {
+  width: 30px;
+}
+
 .footer__social-icon img:hover {
   opacity: 0.5;
   transform: translateY(2px);
