@@ -461,6 +461,7 @@ body.lock {
   display: flex;
 /*   justify-content: space-between; */
   align-items: center;
+  justify-content: center;
 }
 
 .footer__social-icon + .footer__social-icon {
