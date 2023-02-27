@@ -531,6 +531,9 @@ body.lock {
     flex-direction: column;
     align-items: center;
   }
+  .footer__social {
+    margin-left: 0;
+  }
   .footer__inner {
     display: flex;
     flex-direction: column-reverse;
