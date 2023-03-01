@@ -340,6 +340,30 @@ body.lock {
   margin: 0 auto;
   margin-bottom: 130px;
 }
+.quote__bg {
+  background: linear-gradient(180deg, #1E4776 0%, rgba(80, 0, 250, 0.93) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 400px;
+  line-height: 400px;
+  opacity: 0.1;
+  position: absolute;
+  bottom: 10px;
+  animation: line-text 8s linear 3s infinite;
+}
+
+@keyframes line-text {
+  from{
+    transform: translateX(90%);
+    transform-origin: left center;
+  }
+  to{
+    transform: translateX(-105%);
+    transform-origin: right center;
+  }
+}
 
 .quote-line {
   display: flex;
