@@ -125,7 +125,7 @@ body {
   transition: width 0.3s ease 0s, left 0.3s ease 0s;
 }
 .portfolio-start:hover::after {
-  width: 13.8%;
+  width: 17.3%;
   left: 30px;
 }
 
