@@ -195,7 +195,6 @@ body.lock {
 }
 
 .header__btn {
-  cursor: pointer;
   opacity: 0.9;
 }
 .header__btn:hover {
