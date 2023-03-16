@@ -6,4 +6,4 @@
 - CDN
 - Gulp
 
-[My portfolio](https://uralrulit.github.io/portfolio/)
+[My portfolio](https://eburgweb.github.io/portfolio/)
