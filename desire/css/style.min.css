@@ -1770,6 +1770,7 @@ iframe {
   font-size: 14px;
   line-height: 28px;
   color: #363838;
+  margin-right: auto;
   margin-left: 30px;
   margin-bottom: 30px;
   position: relative;
@@ -1788,7 +1789,7 @@ iframe {
   content: "";
   position: absolute;
   bottom: 0;
-  left: 10%;
+  left: 50%;
   display: block;
   background: none repeat scroll 0 0 transparent;
   height: 2px;
@@ -1797,7 +1798,7 @@ iframe {
   transition: width 0.3s ease 0s, left 0.3s ease 0s;
 }
 .page-contact__item-mail:hover::after {
-  width: 25%;
+  width: 100%;
   left: 0;
 }
 
