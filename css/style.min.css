@@ -136,7 +136,7 @@ body.lock {
 .header {
   max-width: 1440px;
   width: 100%;
-  height: 940px;
+  height: 100vh;
   margin: 0 auto;
   display: flex;
   text-align: center;
